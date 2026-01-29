@@ -1,0 +1,1 @@
+public enum YakitTuru {BENZIN,DIZEL,ELEKTRIK}
